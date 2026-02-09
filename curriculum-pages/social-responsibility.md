@@ -1,0 +1,141 @@
+# Exploring Careers and Issues in Social Responsibility
+
+- Course ID: `social-responsibility`
+- Source files tagged to this course: **83**
+- Source policy: Existing local curriculum files only; no upgraded or added external curriculum content.
+
+## Core Source Documents
+- `Engineering Curriculum Docs/Year 3 Exploring Careers & Issues in Socially Responsible Engineering.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Choosing a career.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Choosing a career_ Activity Sheet.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Cover Letter Samples.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume Template.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume-1.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume-2.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume-3.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume-4.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Resume-5.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/COVER LETTER AND RESUME TEMPLATES/Sample Resume.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/Grading Checklist.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/CHOOSING A CAREER PROJECT/Resume Planning Chart.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/Grading Checklist.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/Teacher Guide.docx`
+- `TECH CURRICULUM/TECH 3/CHOOSING A CAREER/Resume Building Activity/Terms of Use Page.pdf`
+- `TECH CURRICULUM/TECH 3/Copy of treehouseproject19-20.doc`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR CONSTRUCTION DOCUMENTATION PICTURES.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR Intro.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR MEASUREMENTS & CONSTRUCTION.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR TINKER/ELEVATOR TINKER-REDESIGN-5PTS.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR TINKER/ELEVATOR TINKER-Testing-5PTS_.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR-REDESIGN-5PTS.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/DOCUMENTATION/ELEVATOR-Testing-5PTS_.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/ELEVATOR TINKERCAD IMAGES.docx`
+- `TECH CURRICULUM/TECH 3/ELEVATOR PROJECT/ELEVATOR-INVEST & RESEARCH-10PTS_.docx`
+- `TECH CURRICULUM/TECH 3/EXPLORING CAREERS AND ISSUES IN SOCIALLY RESPONSIBLE ENGINEERING-19-20.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/Copy of SCISSOR LIFT ASSEMBLY MEASUREMENTS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/FULL SCALE MODEL/Hydraulic Arm Full Size Lift-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/FULL SCALE MODEL/Hydraulic Arm Full Size Lift-TESTING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/FULL SCALE MODEL/HYDRAULIC ARM LIFT MEASUREMENTS & CONSTRUCTION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/FULL SCALE MODEL/Hydraulic ARM Lift-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/FULL SCALE MODEL/Hydraulic Arm Lift-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/TINKERCAD/Hydraulic ARM Lift-TINKER-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/TINKERCAD/Hydraulic Arm Lift-TINKER-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/TINKERCAD/Hydraulic Arm Lift-TINKER-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ARM LIFT/TINKERCAD/Hydraulic Arm Lift-TINKER-TESTING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/How to Make a Hydraulic Excavator, DIY manufacture of excavator.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/HYDRAULIC ESCAVATOR-TESTING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/HYDRAULIC ESCAVATOR.pdf`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/HYDRAULIC EXCAVATOR MEASUREMENTS & CONSTRUCTION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/HYDRAULIC EXCAVATOR-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/HYDRAULIC EXCAVATOR-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC EXCAVATOR/STUDENT-HYDRAULIC EXCAVATOR-DOCUMENTATION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/BIG BASE TEMPLATE.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/BIG BASE TEMPLATE.pdf`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/CARDBOARD-Robotic-Hydraulic-Arm.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/CARDBOARD-Robotic-Hydraulic-Arm.pdf`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND DOC SHEETS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-MODELING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-RUBRIC.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Copy of HYDRA-ROBOT HAND-TESTING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Hydraulics & Pneumatic Powers Unit.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Hydraulics & Pneumatic Powers Unit.pdf`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/ROBOTIC ARM LINKS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Robotic-Hydraulic-Arm-PARTS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC ARM/Robotic-Hydraulic-Arm-PARTS.pdf`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND DOC SHEETS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND MEASUREMENTS.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-DEVELOPMENTAL.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-MODELING.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-RUBRIC.docx`
+- `TECH CURRICULUM/TECH 3/HYDRAULIC ROBOTIC HAND/HYDRA-ROBOT HAND-TESTING.docx`
+- `TECH CURRICULUM/TECH 3/TECH 3/EGG DROP MATERIALS LIST.docx`
+- `TECH CURRICULUM/TECH 3/TECH 3/Empowered Energy Program.docx`
+- `TECH CURRICULUM/TECH 3/TECH 3/EXPLORING CAREERS AND ISSUES IN SOCIALLY RESPONSIBLE ENGINEERING.docx`
+- `TECH CURRICULUM/TECH 3/WEBSITE PROJECT DOCUMENTATION/TECH 3/Copy of 8thWebsiteprojectdocsheets.docx`
+- `TECH CURRICULUM/Y3 units/Y3 U Civil WG.docx`
+- `TECH CURRICULUM/Y3 units/Y3 U1 Interviewprep.docx`
+- `TECH CURRICULUM/Y3 units/Y3 U2 Systems Eng final_.docx`
+- `TECH CURRICULUM/Y3 units/Y3 U3 Medical.docx`
+- `TECH CURRICULUM/Y3 units/Y3 U4 Ocean-Final Version.docx`
+
+## MP3 Outline
+- Window: `2026-02-01` to `2026-04-09`
+- Weeks: `9`
+- Global Issues & Challenges (3 weeks, 3 lessons/week)
+  - Poverty & Economic Development
+  - Healthcare & Education Access
+  - Environmental Challenges
+- Social Responsibility Frameworks (3 weeks, 3 lessons/week)
+  - Corporate Social Responsibility
+  - Ethics & Decision Making
+  - Community Engagement
+- Career Exploration (3 weeks, 3 lessons/week)
+  - NGO & Non-profit Work
+  - Social Enterprise
+  - Government & Policy
+
+## MP4 Outline
+- Window: `2026-04-10` to `2026-06-18`
+- Weeks: `10`
+- Project-Based Social Impact (4 weeks, 3 lessons/week)
+  - Community Needs Assessment
+  - Action Planning
+  - Implementation Strategy
+- Leadership & Change (3 weeks, 3 lessons/week)
+  - Leadership Models
+  - Advocacy & Activism
+  - Sustainable Change
+- Reflection & Future Planning (3 weeks, 3 lessons/week)
+  - Personal Impact
+  - Career Path Planning
+  - Lifelong Engagement
+
+## Week 1 Lesson Outline (MP3)
+- Week window: `2026-02-01` to `2026-02-05`
+- Lesson 1 (Monday 2026-02-02): Understanding Global Challenges: Poverty and Economic Development
+  - Objectives:
+    - Students will understand different definitions of poverty
+    - Students will analyze economic disparities globally and locally
+    - Students will explore pathways out of poverty
+  - NJ Standards: 6.1.4.A.12, 6.2.6.A.1
+- Lesson 2 (Tuesday 2026-02-03): Healthcare and Education Access Around the World
+  - Objectives:
+    - Students will understand global disparities in health and education
+    - Students will analyze barriers to access
+    - Students will explore solutions and career opportunities
+  - NJ Standards: 6.1.4.A.12, 6.2.6.A.1
+- Lesson 3 (Thursday 2026-02-05): Environmental Justice and Climate Equity
+  - Objectives:
+    - Students will understand environmental justice concepts
+    - Students will analyze who bears the burden of environmental degradation
+    - Students will explore solutions that address equity
+  - NJ Standards: 5.1.8.A, 6.2.6.A.1
+
+## Full Source List
+- Full tagged source list is documented in `public/data/course-source-map.json`.

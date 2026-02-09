@@ -1,0 +1,230 @@
+# Technology, Engineering, and Social Responsibility
+
+- Course ID: `tech-engineering`
+- Source files tagged to this course: **167**
+- Source policy: Existing local curriculum files only; no upgraded or added external curriculum content.
+
+## Core Source Documents
+- `Technology, Engineering & Social Responsibility Curriculum 2021.docx`
+- `Engineering Curriculum Docs/Year 1 Technology, Engineering & Social Responsibility.docx`
+- `Engineering Curriculum Docs/Year 1 Technology, Engineering & Social Responsibility(1).docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/25-25/CATAPULT-DEVELOPMENTAL.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/25-25/CRAFT STICK CATAPULT/CRAFT STICK CATAPULT MEASUREMENTS & CONSTRUCTION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/CATAPULT-MODELING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/CATAPULT-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/CATAPULT-RUBRIC.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/CATAPULT DOCUMENTATION/CATAPULT-TESTING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/catapultconstructionlayout-19-20(1).docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/catapultconstructionlayout-19-20.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/catapultsdocsheets.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/Copy of 8thcatapultsdocsheets-nomath.doc`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/Copy of 8thcatapultsdocsheets.doc`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/Copy of CATAPULT-DEVELOPMENTAL.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/Copy of catapultconstructionlayout-19-20.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/TINKERCAD CATAPULT/CATAPULT TINKERCAD IMAGES.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/TINKERCAD CATAPULT/TINKERCAD CATAPULT PROJECT-Testing-5PTS_.docx`
+- `TECH CURRICULUM/TECH 1/25-26/CATAPULT PROJECT/TINKERCAD CATAPULT/TINKERCAD CATAPULT-REDESIGN-5PTS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-CONSTRUCTION LAYOUT.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Devel Work.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Generation of Solutions_ Out of 10 pts.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Investigation and Research_ out of 10pts.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Modeling and Prototyping_ Out of 10 pts.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Redesign_ Out of 5 pts.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-RUBRIC.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/EGG D-Testing and Evaluation_ Out of 5 pts.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/Egg drop project-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/GOOGLE DOCS/Egg drop project.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/TINK-EGG DROP-INTRO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/TINK-EGG DROP-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/TINK-EGG DROP-TEST & EVALUATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/WORD FILES/Copy of Egg drop project.doc`
+- `TECH CURRICULUM/TECH 1/25-26/EGG DROP PROJECT/WORD FILES/EGG DROP CONSTRUCTION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ISO/Constructing-letters-differentiated-exercise.docx`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ISO/cub_spatviz_lesson01_activity1__isometric-drawing-worksheetas_v2_tedl.docx`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ISO/isometric-paper.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ORTHO/Design Drawing_Sketch-worksheet.docx`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ORTHO/ortho-drawings-Answer Key.docx`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ORTHO/Seeing All Sides_ Orthographic Drawing - Activity - TeachEngineering.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/ENGINEERING DRAWINGS/TECH 1/ORTHO/spatviz_lesson01_activity2_orthographic-drawings-worksheet_v2_tedl.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/22-23/HydraulicLift-INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/22-23/HydraulicLift-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/22-23/HydraulicLift-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/22-23/HydraulicLift-TESTING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/22-23/SCISSOR LIFT ASSEMBLY MEASUREMENTS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/fluidmechanics_lesson01_presentation.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/pur_fluidpower_lesson01_trainingmanualfluidpower.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/uoh_fluidmechanics_lesson01_practiceproblems_v2_tedl_dwc.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/uoh_fluidmechanics_lesson01_practiceproblems_v2_tedl_dwc.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/uoh_fluidmechanics_lesson01_practiceproblemsas_v2_tedl_dwc.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/uoh_fluidmechanics_lesson01_practiceproblemsas_v2_tedl_dwc.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws1_flow.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws1_flow.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws2_pascal.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws2_pascal.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws3_moments.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws4_fluid.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws4_fluid.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/ws6_energy.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/FLUID ENERGY/~$1_flow.doc`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/HYDRAULIC AND PNEUMATIC TERMS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/HYDRAULIC LIFT-RUBRIC.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/Hydraulic Powered Lift DOC SHEETS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/Hydraulic Powered Lift/HydraulicLift-MODELING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/22-23/MAZE-DEVELOPMENTAL WORK-TEACHER.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MARBLE MAZE PROJECT.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MARBLE MAZE-INTRO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MARBLE MAZE.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MAZE-DEVELOPMENTAL WORK-model.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MAZE-DEVELOPMENTAL WORK-original.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MAZE-MODELING AND PROTOTYPING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MAZE-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/MAZE-TEST & EVALUATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/TINKERCAD VERSION/PROJECT IMAGES-DOCUMENT.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/TINKERCAD VERSION/TINK-MARBLE MAZE-INTRO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/TINKERCAD VERSION/TINK-MAZE-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MARBLE MAZE PROJECT/TINKERCAD VERSION/TINK-MAZE-TEST & EVALUATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MIDTERM/Light Bulb Basketball-DOCUMENTATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MIDTERM/Technology and Engineering with Social Responsibility - Midterm_Study_Guide.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/MIDTERM/Year 1 Mid-Term Project Performance Exam - Tech and Engineering.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/DOC-2022/ Marble Machine INFO SHEET-22.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/DOC-2022/MM-Developmental-22.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/DOC-2022/MM-Redesign-22.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/DOC-2022/MM-Testing-22_.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/Marble Machine construction layout-19-20(1).docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/Marble Machine construction layout-19-20.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/Marble Machine Documentation.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/Marble Machine RUBRIC.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/Marble-Grading Rubric-19-20.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/MM-Generation of Solutions_ Out of 10pts_.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/MM-Investigation and Research__.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/MM-Modeling.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/SAMPLE MARBLE MACHINE DRAWING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MM-DOCUMENTATION/SAMPLE MM DRAWING-SCREEN SHOT.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/4-H Maker Challenge mouse trap cars.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/Build-a-Mousetrap-Car.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/Build-a-Mousetrap-Car.pdf`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/MOUSE TRAP CAR CONSTRUCTION LAYOUT.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/MOUSE TRAP CAR-REDESIGN-5PTS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/MOUSE TRAP CAR-Testing-5PTS_.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/MOUSETRAP CAR INTRO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/Mousetrap Car Web Quest.docx`
+- `TECH CURRICULUM/TECH 1/25-26/MOUSETRAP CARS/MOUSETRAP CAR-INVEST.docx`
+- `TECH CURRICULUM/TECH 1/25-26/PAPER TOWER PROJECTS/PAPER TOWER PROJECT DOCUMENTATION.docx`
+- `TECH CURRICULUM/TECH 1/25-26/PAPER TOWER PROJECTS/PAPER TOWER PROJECT INTRO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/PAPER TOWER PROJECTS/PAPER TOWER-GEN OF SOL.docx`
+- `TECH CURRICULUM/TECH 1/25-26/PAPER TOWER PROJECTS/PAPER TOWER-TEST, EVAL, REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/1.1-Treehouse Building Challenge Overview.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/1.2-Treehouse Team Sign Up.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/2.1-Designing your Treehouse in Sketchup.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/3-Treehouse Construction Materials Price List.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/4-Material Control Sheet for Teacher.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/5-Treehouse Student Critique.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/6-Treehouse construction reflection.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/Dreamhouseconstrurubric.doc`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/Dreamhouseproject-shortened.doc`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/Dreamhouseproject.doc`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/Treehouse Construction Materials Price List-EDITED.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/TREEHOUSE BRICK PATTERN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/Treehouse project-INTRO & CONSTRUCTION INFO.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/TREEHOUSE TINKERCAD FLOOR PLAN/OBJECT GALLERY LINKS.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/TREEHOUSE TINKERCAD FLOOR PLAN/TREEHOUSE FLOOR PLAN-Finalize and Share Design.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/TREEHOUSE TINKERCAD FLOOR PLAN/TREEHOUSE TINKERCAD-Share Feedback.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/Treehouseproject-Documentation.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/Treehouseproject-INTRO-Construction info_.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/Treehouseproject-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/TREEHOUSE DOCUMENTATION/Treehouseproject-TESTING.docx`
+- `TECH CURRICULUM/TECH 1/25-26/TREEHOUSE PROJECT/Treehouse UNIT.pdf`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BALLON CAR DRAWING LAYOUT-19-20.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/ballooncar-documentation-19-20.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Developmental Work_ Out of 10 pts.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Generation of Solutions_ Out of 10 pts.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Investigation.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Modeling and Prototyping_ Out of 10 pts.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Redesign_ Out of 5 pts.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/GOOGLE DOCS/BC-Testing and Evaluation_ Out of 5 pts.docx`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/WORD FILES/ballooncar.doc`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/WORD FILES/Copy of 7th Grade ballooncarshort.doc`
+- `TECH CURRICULUM/TECH 1/BALLOON CAR PROJECT/WORD FILES/Copy of balloon car plans.doc`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAW BRIDGE PROJECT.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE DOCUMENTATION/DRAWBRIDGE PARTS LIST.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE DOCUMENTATION/DRAWBRIDGE PROJECT INFO SHEET.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE DOCUMENTATION/DRAWBRIDGE PROJECT-REDESIGN.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE DOCUMENTATION/DRAWBRIDGE PROJECT-TESTING.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE DOCUMENTATION/DRAWBRIDGE-INVESTIGATION.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE-Finalize and Share Design.docx`
+- `TECH CURRICULUM/TECH 1/DRAW BRIDGE PROJECT/DRAWBRIDGE-Share Feedback.docx`
+- `TECH CURRICULUM/TECH 1/DREAM HOUSE PROJECT DOCUMENTATION/Copy of Copy of 8thDreamhouseconstrurubric.doc`
+- `TECH CURRICULUM/TECH 1/DREAM HOUSE PROJECT DOCUMENTATION/Copy of Copy of 8thDreamhouseproject-shortened.doc`
+- `TECH CURRICULUM/TECH 1/DREAM HOUSE PROJECT DOCUMENTATION/Copy of Copy of 8thDreamhouseproject.doc`
+- `TECH CURRICULUM/TECH 1/TECH, ENGIN & SOCIAL RESPON.docx`
+- `TECH CURRICULUM/TECH 1/TECHNOLOGY, ENGINEERING & SOCIAL RESPONSIBILITY-19-20.docx`
+- `TECH CURRICULUM/TECH 1/treehouseproject19-20.doc`
+- `TECH CURRICULUM/TECH 1/treehouseproject19-20.docx`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U1 Got Design Rev 8-21-3013  Evans.pdf`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U2 Can I Borrow a Pencil.pdf`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U3 Recycled Light Source.pdf`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U4 How Does this Work.pdf`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U5 Is Recycling Worth the Time.pdf`
+- `TECH CURRICULUM/Y1 units/PDF/Y1U6 Got Efficiency.pdf`
+- `TECH CURRICULUM/Y1 units/Y1U1 Got Design Rev 8-21-3013  Evans.docx`
+- `TECH CURRICULUM/Y1 units/Y1U2 Can I Borrow a Pencil.docx`
+- `TECH CURRICULUM/Y1 units/Y1U3 Recycled Light Source.docx`
+- `TECH CURRICULUM/Y1 units/Y1U4 How Does this Work.docx`
+- `TECH CURRICULUM/Y1 units/Y1U5 Is Recycling Worth the Time.docx`
+- `TECH CURRICULUM/Y1 units/Y1U6 Got Efficiency.docx`
+
+## MP3 Outline
+- Window: `2026-02-01` to `2026-04-09`
+- Weeks: `9`
+- Engineering Design Process & Sustainable Development (3 weeks, 3 lessons/week)
+  - Introduction to Engineering Design
+  - Identifying Social & Environmental Problems
+  - Sustainable Development Goals
+- Research & Ideation (3 weeks, 3 lessons/week)
+  - Research Methods
+  - Brainstorming Techniques
+  - Prototyping Concepts
+- Building & Testing Solutions (3 weeks, 3 lessons/week)
+  - Materials & Resources
+  - Construction Methods
+  - Testing & Iteration
+
+## MP4 Outline
+- Window: `2026-04-10` to `2026-06-18`
+- Weeks: `10`
+- Advanced Project Development (4 weeks, 3 lessons/week)
+  - Scaling Solutions
+  - Cost-Benefit Analysis
+  - Real-world Implementation
+- Documentation & Presentation (3 weeks, 3 lessons/week)
+  - Technical Writing
+  - Visual Presentations
+  - Stakeholder Communication
+- Project Showcase & Reflection (3 weeks, 3 lessons/week)
+  - Final Project Review
+  - Community Presentations
+  - Course Reflection
+
+## Week 1 Lesson Outline (MP3)
+- Week window: `2026-02-01` to `2026-02-05`
+- Lesson 1 (Monday 2026-02-02): Introduction to Engineering Design Process
+  - Objectives:
+    - Students will understand the steps of the engineering design process
+    - Students will identify real-world problems that engineering can solve
+    - Students will articulate the importance of iteration in design
+  - NJ Standards: 8.2.2.A.1, 8.2.2.B.1
+- Lesson 2 (Tuesday 2026-02-03): Identifying Social and Environmental Problems
+  - Objectives:
+    - Students will analyze social and environmental issues in their community
+    - Students will connect engineering to addressing real societal needs
+    - Students will develop empathy for affected communities
+  - NJ Standards: 8.1.12.A.1, 8.2.2.C.1
+- Lesson 3 (Thursday 2026-02-05): Sustainable Development Goals Deep Dive
+  - Objectives:
+    - Students will understand the 17 Sustainable Development Goals (SDGs)
+    - Students will evaluate how engineering contributes to sustainability
+    - Students will choose a problem to focus on for their unit project
+  - NJ Standards: 8.2.2.A.1, 8.2.2.B.1, 8.1.12.A.1
+
+## Full Source List
+- Full tagged source list is documented in `public/data/course-source-map.json`.

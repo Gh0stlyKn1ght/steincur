@@ -1,0 +1,128 @@
+# Honors Innovation and Design
+
+- Course ID: `honors-innovation`
+- Source files tagged to this course: **65**
+- Source policy: Existing local curriculum files only; no upgraded or added external curriculum content.
+
+## Core Source Documents
+- `Engineering Curriculum Docs/Year 4 Honors Innovation & Design.docx`
+- `Year 4 Honors Innovation & Design.docx`
+- `TECH CURRICULUM/TECH 4/HONORS INNOVATION AND DESIGN-19-20.docx`
+- `TECH CURRICULUM/TECH 4/INNOVATION AND DESIGN-20-21.docx`
+- `TECH CURRICULUM/TECH 4/INNOVATION AND DESIGN.docx`
+- `TECH CURRICULUM/TECH 4/POWER ROBOTIC LIFT CRANE DOCUMENTATION.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/Copy of Copy of Defining the Problem LP.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/DOG HOUSE/Constructing a Dog House.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/DRILL POWERED BIKE/ELECTRIC DRILL BIKE.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/ELECTRIC AND PLUMBING UNIT/Introduction to Basic Plumbing.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/ELECTRIC AND PLUMBING UNIT/Residential Electrical Wiring Project.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/COLLABORATION PROJECT FILES/GO  KART HOOD.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/DONATION ACCEPTANCE FORM GO KART-2025.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/420 CHAIN- Order 111-2381485-1226665.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/60T SPROCKET- Order 114-5542265-4617024.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/All-in-One Go Kart & Drift Trike 32INCE Rear Axle Kit - Order 111-6032410-0468260.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/BRAKE CABLE STOPS- Order 114-2673621-9789830.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/BRAKE CABLE- Order 114-3947428-4711447.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/CLUTCH-1INCE BORE- Order 114-6591644-3528267.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/CLUTCH-Order 114-4269297-0149810.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/Go Kart Rear Drum Brake Band & Steel Sprocket Hub - Order 114-3526576-5283424.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/GREHUA Go Kart Pedals,Go Cart Brake Pedal- Order 111-4995050-0692240.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/Riding Lawn Mower Seat Cover with Waterproof Cover- Order 111-3503537-3058613.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART EXPENSES/RECEIPTS/GO KART-AMAZON RECEIPTS/Torque Converter Motor Engine Riser Plate - Order 114-2238080-6695456.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/Awesome wood go kart!.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/Design Brief_ Go-Kart_.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/Free-Go-Kart-Plans.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/GO KART DIMENSIONS FOR FINAL BUILD.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/GO KART UNIT.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/GO KART-HARDWARE.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/Introduction to Go-Karts.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/PowerPoint Outline-GO KART.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/Problem Statement_ Developing a High School Go-Kart_.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/GO KART LESSONS/SPREADSHEETS/SCREENSHOTS.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/Make A Cheap Go Kart from Scratch.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/MotoTec Maverick Go Kart 36v 1000w Red-MT-GK-Maverick-1000w_.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/PlansGoKart.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/PlansGoKart.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/GO KART/Wood Go Kart Version 2 Assembly Guide - Wood-Go-Kart-Version-2-Assembly-Guide.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Building a Design Brief.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Buisness Problem Statment.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Compare and Contrast Doc.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Defining the Problem LP.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Defining the Problem Worksheet.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Describing a Design Brief.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Finding the Problem Worksheet.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Resume LP.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Settling on the Scope.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Systems Diagram and IPO Chart Overview.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Systems Diagram Examples.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/FROM STEVE PAE/Copy of Website Entry Requirements.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/U1/engineeringnotebook1.pdf`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/U2/Feasibility Form.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/U2/IC-Project-Problem-Statement-Document-Template_WORD.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/U3/How to write a design brief.docx`
+- `TECH CURRICULUM/TECH 4/SENIOR PROJECT IDEAS/INDEPENDENT PROJECT/U4/Investigation and Research.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U1-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U2-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U3-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U4-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U5-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U6-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U7-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U8-WG.docx`
+- `TECH CURRICULUM/TECH 4/Y4 resources/Y4 U9-WG.docx`
+
+## MP3 Outline
+- Window: `2026-02-01` to `2026-04-09`
+- Weeks: `9`
+- Design Thinking & Innovation Framework (3 weeks, 3 lessons/week)
+  - Design Thinking Methodology
+  - Problem Definition
+  - User Research & Empathy
+- Ideation & Conceptual Design (3 weeks, 3 lessons/week)
+  - Creative Thinking Techniques
+  - Concept Development
+  - Rapid Prototyping
+- Systems Thinking & Integration (3 weeks, 3 lessons/week)
+  - Holistic Problem Analysis
+  - Stakeholder Integration
+  - Sustainable Innovation
+
+## MP4 Outline
+- Window: `2026-04-10` to `2026-06-18`
+- Weeks: `10`
+- Advanced Product Development (4 weeks, 3 lessons/week)
+  - Manufacturing & Scale
+  - Business Model Development
+  - Market Analysis
+- Innovation in Technology (3 weeks, 3 lessons/week)
+  - Emerging Technologies
+  - AI & Automation
+  - Digital Innovation
+- Entrepreneurship & Implementation (3 weeks, 3 lessons/week)
+  - Startup Concepts
+  - Funding & Resources
+  - Launch Strategy
+
+## Week 1 Lesson Outline (MP3)
+- Week window: `2026-02-01` to `2026-02-05`
+- Lesson 1 (Monday 2026-02-02): Design Thinking Fundamentals
+  - Objectives:
+    - Students will understand the 5 phases of Design Thinking
+    - Students will apply empathy in problem identification
+    - Students will practice ideation with no judgment
+  - NJ Standards: 8.2.2.A.1, 8.2.2.B.1
+- Lesson 2 (Tuesday 2026-02-03): Empathy and User Research
+  - Objectives:
+    - Students will conduct user interviews and observations
+    - Students will develop empathy for end-users
+    - Students will translate user needs into design requirements
+  - NJ Standards: 8.2.2.A.1, 8.2.2.B.1
+- Lesson 3 (Thursday 2026-02-05): Problem Definition and Opportunity Framing
+  - Objectives:
+    - Students will translate user insights into a well-defined problem statement
+    - Students will identify constraints and opportunities
+    - Students will frame challenges as design opportunities
+  - NJ Standards: 8.2.2.A.1, 8.2.2.B.1
+
+## Full Source List
+- Full tagged source list is documented in `public/data/course-source-map.json`.
