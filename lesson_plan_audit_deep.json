@@ -1,0 +1,585 @@
+{
+  "unique_standards_by_course": {
+    "electronics-robotics-2": 4,
+    "honors-innovation": 2,
+    "intro-electronics": 4,
+    "social-responsibility": 3,
+    "sustainable-engineering": 4,
+    "tech-engineering": 4
+  },
+  "top_standards_by_course": {
+    "electronics-robotics-2": [
+      [
+        "9.2.8.A.3",
+        15
+      ],
+      [
+        "9.1.8.A.1",
+        13
+      ],
+      [
+        "9.1.8.A.2",
+        13
+      ],
+      [
+        "9.1.8.A.3",
+        13
+      ]
+    ],
+    "honors-innovation": [
+      [
+        "8.2.2.A.1",
+        27
+      ],
+      [
+        "8.2.2.B.1",
+        27
+      ]
+    ],
+    "intro-electronics": [
+      [
+        "9.1.8.A.1",
+        14
+      ],
+      [
+        "9.2.8.A.1",
+        13
+      ],
+      [
+        "9.2.8.A.2",
+        13
+      ],
+      [
+        "9.2.8.B.1",
+        13
+      ]
+    ],
+    "social-responsibility": [
+      [
+        "6.2.6.A.1",
+        19
+      ],
+      [
+        "6.1.4.A.12",
+        18
+      ],
+      [
+        "5.1.8.A",
+        17
+      ]
+    ],
+    "sustainable-engineering": [
+      [
+        "5.1.8.A",
+        14
+      ],
+      [
+        "5.2.8.A",
+        14
+      ],
+      [
+        "8.2.2.A.1",
+        13
+      ],
+      [
+        "8.2.2.B.1",
+        13
+      ]
+    ],
+    "tech-engineering": [
+      [
+        "8.2.2.A.1",
+        14
+      ],
+      [
+        "8.2.2.B.1",
+        14
+      ],
+      [
+        "8.1.12.A.1",
+        14
+      ],
+      [
+        "8.2.2.C.1",
+        13
+      ]
+    ]
+  },
+  "unique_titles_by_course": {
+    "electronics-robotics-2": 12,
+    "honors-innovation": 12,
+    "intro-electronics": 12,
+    "social-responsibility": 12,
+    "sustainable-engineering": 12,
+    "tech-engineering": 12
+  },
+  "most_repeated_titles_by_course": {
+    "electronics-robotics-2": [
+      [
+        "Boolean Algebra: Concepts and Context",
+        3
+      ],
+      [
+        "Logic Gates & Circuits: Applied Practice",
+        3
+      ],
+      [
+        "Combinational Design: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Microcontroller Architecture: Concepts and Context",
+        3
+      ],
+      [
+        "Assembly Language Basics: Applied Practice",
+        3
+      ],
+      [
+        "Interrupt Handling: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Network Analysis: Concepts and Context",
+        2
+      ],
+      [
+        "Power Supply Design: Applied Practice",
+        2
+      ],
+      [
+        "Signal Conditioning: Design Challenge and Reflection",
+        2
+      ]
+    ],
+    "honors-innovation": [
+      [
+        "Creative Thinking Techniques: Concepts and Context",
+        3
+      ],
+      [
+        "Concept Development: Applied Practice",
+        3
+      ],
+      [
+        "Rapid Prototyping: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Holistic Problem Analysis: Concepts and Context",
+        3
+      ],
+      [
+        "Stakeholder Integration: Applied Practice",
+        3
+      ],
+      [
+        "Sustainable Innovation: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Design Thinking Methodology: Concepts and Context",
+        2
+      ],
+      [
+        "Problem Definition: Applied Practice",
+        2
+      ],
+      [
+        "User Research & Empathy: Design Challenge and Reflection",
+        2
+      ]
+    ],
+    "intro-electronics": [
+      [
+        "Series vs Parallel Circuits: Concepts and Context",
+        3
+      ],
+      [
+        "Breadboarding & Components: Applied Practice",
+        3
+      ],
+      [
+        "Troubleshooting Circuits: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Robot Anatomy: Concepts and Context",
+        3
+      ],
+      [
+        "Basic Programming: Applied Practice",
+        3
+      ],
+      [
+        "Sensors & Actuators: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Voltage, Current, Resistance: Concepts and Context",
+        2
+      ],
+      [
+        "Ohm's Law & Circuit Analysis: Applied Practice",
+        2
+      ],
+      [
+        "Safety Practices: Design Challenge and Reflection",
+        2
+      ]
+    ],
+    "social-responsibility": [
+      [
+        "Corporate Social Responsibility: Concepts and Context",
+        3
+      ],
+      [
+        "Ethics & Decision Making: Applied Practice",
+        3
+      ],
+      [
+        "Community Engagement: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "NGO & Non-profit Work: Concepts and Context",
+        3
+      ],
+      [
+        "Social Enterprise: Applied Practice",
+        3
+      ],
+      [
+        "Government & Policy: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Poverty & Economic Development: Concepts and Context",
+        2
+      ],
+      [
+        "Healthcare & Education Access: Applied Practice",
+        2
+      ],
+      [
+        "Environmental Challenges: Design Challenge and Reflection",
+        2
+      ]
+    ],
+    "sustainable-engineering": [
+      [
+        "Energy Systems: Concepts and Context",
+        3
+      ],
+      [
+        "Renewable Energy: Applied Practice",
+        3
+      ],
+      [
+        "Resource Conservation: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Lifecycle Assessment: Concepts and Context",
+        3
+      ],
+      [
+        "Material Selection: Applied Practice",
+        3
+      ],
+      [
+        "Waste Reduction: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Environmental Systems: Concepts and Context",
+        2
+      ],
+      [
+        "Climate Change & Impact: Applied Practice",
+        2
+      ],
+      [
+        "Sustainable Development Goals: Design Challenge and Reflection",
+        2
+      ]
+    ],
+    "tech-engineering": [
+      [
+        "Research Methods: Concepts and Context",
+        3
+      ],
+      [
+        "Brainstorming Techniques: Applied Practice",
+        3
+      ],
+      [
+        "Prototyping Concepts: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Materials & Resources: Concepts and Context",
+        3
+      ],
+      [
+        "Construction Methods: Applied Practice",
+        3
+      ],
+      [
+        "Testing & Iteration: Design Challenge and Reflection",
+        3
+      ],
+      [
+        "Introduction to Engineering Design: Concepts and Context",
+        2
+      ],
+      [
+        "Identifying Social & Environmental Problems: Applied Practice",
+        2
+      ],
+      [
+        "Sustainable Development Goals: Design Challenge and Reflection",
+        2
+      ]
+    ]
+  },
+  "unit_file_distribution_by_course": {
+    "electronics-robotics-2": [
+      [
+        "elec-rob2-u1",
+        3
+      ],
+      [
+        "elec-rob2-u2",
+        3
+      ],
+      [
+        "elec-rob2-u3",
+        3
+      ]
+    ],
+    "honors-innovation": [
+      [
+        "hon-inn-u1",
+        3
+      ],
+      [
+        "hon-inn-u2",
+        3
+      ],
+      [
+        "hon-inn-u3",
+        3
+      ]
+    ],
+    "intro-electronics": [
+      [
+        "intro-elec-u1",
+        3
+      ],
+      [
+        "intro-elec-u2",
+        3
+      ],
+      [
+        "intro-elec-u3",
+        3
+      ]
+    ],
+    "social-responsibility": [
+      [
+        "sr-u1",
+        3
+      ],
+      [
+        "sr-u2",
+        3
+      ],
+      [
+        "sr-u3",
+        3
+      ]
+    ],
+    "sustainable-engineering": [
+      [
+        "sus-eng-u1",
+        3
+      ],
+      [
+        "sus-eng-u2",
+        3
+      ],
+      [
+        "sus-eng-u3",
+        3
+      ]
+    ],
+    "tech-engineering": [
+      [
+        "tech-eng-u1",
+        3
+      ],
+      [
+        "tech-eng-u2",
+        3
+      ],
+      [
+        "tech-eng-u3",
+        3
+      ]
+    ]
+  },
+  "missing_local_resource_file_count": 338,
+  "missing_local_resource_file_examples": [
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l1",
+      "/resources/advanced-circuit-kit.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l1",
+      "/resources/kvl-kcl-reference.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l1",
+      "/resources/circuit-analysis-worksheet.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l2",
+      "/resources/power-supply-components.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l2",
+      "/resources/power-supply-design.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l3",
+      "/resources/signal-conditioning-kit.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week1.json",
+      "elec-rob2-mp3-w1-l3",
+      "/resources/signal-conditioning.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l1-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l1-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l2-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l2-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l3-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week2.json",
+      "elec-rob2-mp3-w2-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w2-l3-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l1-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l1-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l2-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l2-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l3-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week3.json",
+      "elec-rob2-mp3-w3-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u1/w3-l3-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l1-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l1",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l1-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l2-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l2",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l2-activity.docx"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l3-brief.pdf"
+    ],
+    [
+      "electronics-robotics-2",
+      "lessons-mp3-week4.json",
+      "elec-rob2-mp3-w4-l3",
+      "/resources/electronics-robotics-2/elec-rob2-u2/w4-l3-activity.docx"
+    ]
+  ]
+}

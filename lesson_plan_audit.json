@@ -1,0 +1,117 @@
+{
+  "courses": 6,
+  "files": 54,
+  "lessons": 162,
+  "marking_period_file_counts": {
+    "3": 54
+  },
+  "week_coverage_by_course": {
+    "electronics-robotics-2": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "honors-innovation": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "intro-electronics": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "social-responsibility": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "sustainable-engineering": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tech-engineering": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "avg_objectives_per_lesson": 3.0,
+  "avg_standards_per_lesson": 2.0,
+  "avg_agenda_items_per_lesson": 4.09,
+  "avg_materials_per_lesson": 3.03,
+  "empty_counts": {
+    "objectives": 0,
+    "standards": 0,
+    "agenda": 0,
+    "materials": 0,
+    "assessment_method": 0
+  },
+  "missing_required_field_counts": {},
+  "bad_day_of_week_count": 0,
+  "bad_dates_count": 0,
+  "agenda_duration_mismatch_count": 0,
+  "duplicate_lesson_ids_count": 0,
+  "material_link_stats": {
+    "classroom_local_links": 144,
+    "local_resource_links": 338,
+    "external_links": 5,
+    "materials_missing_any_link": 4
+  },
+  "placeholder_pattern_hits": {
+    "concepts_context": 48,
+    "generic_agenda_hook": 144,
+    "generic_mini_lesson": 144,
+    "generic_guided_practice": 144,
+    "applied_practice": 48,
+    "design_challenge_reflection": 48
+  },
+  "assessment_types": {
+    "formative": 162
+  },
+  "differentiation_keys": {
+    "forAdvancedLearners": 162,
+    "forStrugglingStusdents": 162
+  },
+  "lesson_count_distribution_per_file": {
+    "min": 3,
+    "max": 3
+  }
+}

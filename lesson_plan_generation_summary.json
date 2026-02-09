@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-02-08T19:06:33.410Z",
+  "courses": 6,
+  "entries": 114,
+  "mp3Entries": 54,
+  "mp4Entries": 60,
+  "resourcesRoot": [
+    "app\\public\\resources",
+    "public\\resources"
+  ]
+}
